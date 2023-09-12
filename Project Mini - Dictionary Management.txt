@@ -1,0 +1,14 @@
+Hello everyone, This is project requests
+1. Nhập Thông Tin Các Từ
+2. Xuất Thông Tin Các Từ Trong Từ Điển
+3. Sắp xếp theo "name" tăng dần
+4.Tìm kiếm một từ theo "name"
+5. Ghi một từ vào tệp nhị phân
+6. Ghi một từ vào file text
+7. Đọc các từ có trong tệp nhị phân
+8. Đọc mảng có trong file text
+9. Cập nhật "Meaning" của một từ trong tệp(nếu nhập từ không có thông báo ra 1 cái gì đó tùy bạn)
+10. Xóa một từ khỏi tệp
+		
+Chúc các bạn thành công
+Good Luck
